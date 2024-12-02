@@ -385,3 +385,4 @@ This package generally follows [SemVer](https://semver.org/spec/v2.0.0.html) con
 ## Requirements
 
 Python 3.7 or higher.
+
